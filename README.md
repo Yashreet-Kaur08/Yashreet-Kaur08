@@ -1,16 +1,20 @@
-## Hi there 👋
+ Hi, I'm Yashreet Kaur 👋
 
-<!--
-**Yashreet-Kaur08/Yashreet-Kaur08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-Year BTech AI & Data Science Student
 
-Here are some ideas to get you started:
+ 💻Currently Learning
+- C Programming
+- Problem Solving
+- Programming Fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 📈 Interested In
+- Artificial Intelligence
+- Data Science
+- Digital Marketing
+
+ 🧠 Experience
+- Tech & Media Team | OSEN Chandigarh
+- Digital Marketing Certified
+
+ 🚀 Current Goal
+Building beginner C projects and documenting my learning journey.
